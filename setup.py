@@ -33,6 +33,6 @@ setup(
         "Development Status :: 4 - Beta"
     ],
     install_requires=[
-        'ssh-mitm',
+        'ssh-mitm>=0.3.0',
     ]
 )
